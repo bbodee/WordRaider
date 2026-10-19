@@ -30,8 +30,8 @@ Your guesses were ['crane', 'stink', 'shore', 'stone', 'soote', 'smote']
 ```
 
 ## How to Run
-Python 3.9+
-No external dependencies
+- Python 3.9+
+- No external dependencies
 
 ```bash
 git clone https://github.com/bbodee/WordRaider.git
